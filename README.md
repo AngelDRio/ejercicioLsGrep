@@ -20,3 +20,7 @@ En resumen, el objetivo del código es ilustrar cómo:
 - Conectar la salida de un proceso con la entrada de otro.  
 - Leer y mostrar el resultado final en la consola.  
 - Simular una operación en *pipeline* típica de sistemas Unix o Linux.
+
+Se puede acceder al proyecto en gitHub mediante el siguiente enlace:
+[Enlace](https://github.com/AngelDRio/ejercicioLsGrep)
+
